@@ -1,0 +1,19 @@
+{
+  "name": "header",
+  "version": "1.0.0",
+  "description": "This is a package for the Header component",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AjayAsok/Components.git"
+  },
+  "author": "Ajay Asok",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AjayAsok/Components/issues"
+  },
+  "homepage": "https://github.com/AjayAsok/Components#readme"
+}
